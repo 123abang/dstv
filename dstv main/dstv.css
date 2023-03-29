@@ -1,0 +1,759 @@
+.div2{
+    width: 100%;
+    height: 100px;
+    outline: solid blue;
+    background-color: black;
+    position: fixed;
+    outline: none;
+}
+.div3{
+    width: 100%;
+    height: 100px;
+    outline: solid green;
+    margin: 10px;
+    background-color: rgba(255, 255, 255,   );
+    outline: none;
+}
+a{
+      
+    text-decoration: none;
+    padding:20px;
+    color: white;
+    font-size: 120%;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:hover{
+    color: blue;
+
+}
+
+
+.div4{
+    float: right;
+}
+.div5{
+    color: blue;
+    font-size: 30px;
+    margin-right: 270px;
+}
+.div6{
+    color:white ;
+    font-size: 30px;
+    margin-right: 200px;
+}
+.div7{
+    color: white;
+}
+.div7:hover{
+    color: white;
+}
+@keyframes example {
+    90%   {background-image: url(images/nfs-header-image_1920x1080.webp);}
+    20%   {background-image: url(images/nfs-premier-league_480x480.webp);}
+25%  {background-image:url(images/nfs-header-image_1920x1080.webp)}
+50%  {background-image:url(images/premier.png);}
+75%  {background-image:url(images/mydstv-footer-icon.webp);}
+100% {background-image:url(images/dstv_now.webp);}
+}
+
+.main{
+    outline: solid red;
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    outline:none ;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    
+}
+.no5{
+    width: 100%;
+    height: 400px;
+    outline: solid blue;
+}
+.ooo{
+    width: 100%;
+    height: 400px;
+    outline: solid green;
+}
+.oma{
+    margin-left: 70px;
+}
+.ded{
+    font-size:300%;
+    color: white;
+}
+.lek{
+    font-size: 30px;
+}
+.see{
+    border: solid blue;
+    width: 10%;
+    text-align: center;
+    height: 30px;
+    border-radius: 10px;
+    background-color: blue;
+    color: red;
+    cursor: pointer;
+}
+.ledf{
+    float:right;
+    font-size: 300%;
+    border: solid red;
+    margin-right: 20px;
+    background-color: white;
+    color: #0095DA;
+    border: none;
+
+}
+.br{
+    width: 100%;
+    height: 100px;
+    outline: solid red;
+    background-color: #010e1d;
+    outline: none;
+}
+.oran{
+    height: 700px;
+    width: 100%;
+    outline: solid orange;
+    background-color: #010e1d;
+    outline: none;
+
+}
+.nop{
+    color: white;
+    padding: 20px;
+}
+.sop{
+width: 100%;
+height: 400px;
+outline: solid red;
+margin: 40px;
+border-radius: 10px;
+outline: none;
+transition: transform .2s;
+cursor: pointer;
+}
+.sop:hover{
+    transform: scale(1.1);
+}
+.red{
+    display: inline-flex;
+}
+.sss{
+    margin-left: 40px;
+    color: white;
+
+}
+.heaven{
+    border: solid green;
+    width:10%;
+    margin: 30px;
+    border-radius: 30px;
+    text-align: center;
+    height: 30px;
+    transition: 10s;
+}
+.heaven:hover{
+    background-color: blue;
+cursor: pointer;
+    border-color: blue;
+}
+.div20{
+    width: 100%;
+    height: 430px;
+    outline: solid green;
+outline: none;
+}
+.div21{
+    width: 100%;
+    height: 400px;
+    outline: solid blue;
+    outline: none;
+    transition: transform .2s;
+}
+.div21:hover{
+    transform: scale(1.1);
+}
+.div20:hover{
+    cursor: pointer;
+
+}
+.div30{
+    width: 100%;
+    height: 400px;
+    outline: solid blue;
+    outline:none;
+    transition: transform .2s;
+}
+.div30:hover{
+    transform: scale(1.1);
+}
+.div22{
+    display: inline-flex;
+}
+.rrr{
+    position:absolute;
+    color: red;
+    margin-top: 300px;
+    font-size: 50px;
+}
+.eee{
+    margin-left: 430px;
+    position: absolute;
+        color: orange;
+    margin-top: 300px;
+    font-size: 50px;
+    margin-bottom: 480px;
+}
+.yyy{
+    color: blue;
+    position:absolute;
+    margin-left: 950px;
+  font-size: 50px;
+  margin-top: 300px;
+  margin-right: -100px;
+}
+.abang{
+    width: 100%;
+    height: 1300px;
+    outline: solid orange;
+    background-color: #010e1d;
+outline:none ;
+}
+.overye{
+    width: 20%;
+    height: 400px;
+    outline: solid red;
+    margin-left: 100px;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: transform .2s;
+    cursor: pointer;
+    outline: none;
+}
+
+
+.overye:hover{
+    transform: scale(1.1);
+}
+.overy{
+    width: 25%;
+    height: 800px;
+    outline: solid purple;
+    padding: 30px;
+    color: white;
+    cursor: pointer;
+outline: none;
+}
+.overyo{
+    width: 20%;
+    height: 400px;
+    outline: solid blue;
+    margin-left: 100px;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: transform .2s;
+        cursor: pointer;
+        outline: none;
+}
+.overyo:hover{
+    transform: scale(1.1);
+}
+.overyy{
+    width: 20%;
+    height: 400px;
+    outline: solid yellow;
+    margin-left: 100px;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: transform .2s;
+        cursor: pointer;
+        outline: none;
+}
+.overyy:hover{
+    transform: scale(1.1);
+}
+.dmd{
+    display:inline-flex;
+    width: 90%;
+}
+.sew{
+    width:5%;
+    height: 200px;
+    outline: solid red;
+
+}
+.dre{
+margin-left: 40px;
+}
+.baby{
+    border: solid firebrick;
+    border-radius: 10px;
+    color: white;
+        transition:  .2s;
+        cursor: pointer;
+        border: none;
+}
+.baby:hover{
+    background-color: royalblue;
+    color: red;
+}
+.dad{
+font-size: 300%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ant{
+    font-size: 150%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sea{
+    font-size: 150%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rem{
+    display: inline-flex;
+    width: 90%;
+   margin-left: 900px;
+}
+.baba{
+    width: 12%;
+    height: 400px;
+    outline: solid green;
+    margin:5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform .2s;
+    outline: none;
+    }
+.baba:hover{
+    transform: scale(1.1);
+}
+.babw{
+    width: 12%;
+    height: 400px;
+    outline:solid red;
+    margin:5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform .2s;
+    outline: none;
+}
+.babw:hover{
+    transform: scale(1.1);
+}
+.juice{
+    width:100%;
+    height: 800px;
+    outline: solid gray;
+    background-color: #010e1d;
+}
+.lemon{
+    color: white;
+    padding: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ric{
+    display: inline-flex;
+    width: 90%;
+}
+.padd{
+    width: 35%;
+    height: 250px;
+    outline: solid fuchsia;
+    margin: 60px;
+    border-radius: 10px;
+    transition: transform .2s;
+    outline:none ;
+}
+.padd:hover{
+    transform: scale(1.4);
+}
+.pad{
+    width: 40%;
+    height: 300px;
+    outline: solid hotpink;
+    margin: 60px;
+    border-radius: 10px;
+    transition: transform .2s;
+    outline: none;
+}
+.pad:hover{
+    transform: scale(1.1);
+}
+.opps{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bag{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bitch{
+    border: solid white;
+    text-align: center;
+    border-radius: 15px;
+    height: 30px;
+    cursor: pointer;
+    color: white;
+    transition: 1s;
+}
+.bitch:hover{
+    color: green;
+    background-color: blue;
+    transition:calc(10s);
+}
+.mornin{
+    width: 100%;
+    height: 700px;
+    outline: solid red; 
+    background-color: rgba(88, 37, 68, 0.9) ;
+    display: inline-flex;
+    outline: none;
+}
+.night{
+    width: 10%;
+    height: 220px;
+    outline: solid green;
+    margin: 60px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform .2s;
+    outline: none;
+}
+.night:hover{
+    transform: scale(1.1);
+}
+.ni{
+    width: 30%;
+    height: 500px;
+    outline: solid saddlebrown;
+    margin: 5px;
+    padding: 30px;
+    outline: none;
+}
+.lol{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.say{
+    font-size: 150%;
+    color:white;
+}
+.hot{
+    font-size: 150%;
+    color: white;
+    border: solid white;
+    width: 70%;
+    text-align: center;
+    height: 50px;
+    border-radius: 80px;
+    transform: 9s;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.hot:hover{
+    background-color: skyblue;
+}
+.cex{
+    width: 100%;
+    height: 400px;
+    outline: solid #010e1d;
+    display: inline-flex;
+    background-color: #010e1d;
+    color: white;
+}
+.we{
+    width: 13%;
+    height: 290px;
+    outline: solid green;
+    cursor: pointer;
+    transition: transform .2s;
+    margin: 30px;
+    border-radius: 10px;
+    outline: none;
+
+}
+.we:hover{
+    transform: scale(1.1);
+}
+.wee{
+    width: 20%;
+    height: 300px;
+    outline: solid rgb(128, 0, 64);
+    cursor: pointer;
+    transition: transform .2s;
+    margin: 30px;
+    outline: none;
+}
+.wee:hover{
+    transform: scale(1.1);
+    
+}
+.rent{
+    border: solid white;
+    width: 40%;
+    height: 50px;
+    margin-left: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+.rent:hover{
+    background-color: skyblue;
+}
+.dic{
+    outline: solid red;
+    width: 100%;
+    height: 700px;
+    background-color:white;
+    outline:none;
+}
+#video{
+
+    min-width: 10%;
+    min-height: 20%;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.rick{
+    width: 100%;
+    height: 600px;
+    outline: solid yellow;
+outline: none;
+}
+.ross{
+    display: inline-flex;
+    width: 99%;
+    margin: 10px;
+}
+.share{
+    margin: 30px;
+}
+.kha{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    font-size: 30px;
+}
+.stand{
+    padding: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mam{
+    padding: 30px;
+}
+.dog{
+    padding: 30px;
+}
+.bigge{
+    border: solid black;
+        padding: 30px;
+        width: 30%;
+        margin: auto;
+        border-radius: 40px;
+        text-align: center;
+        cursor: pointer;
+}
+.bigge:hover{
+ background-color: skyblue;
+}
+.dior{
+    width:100%;
+    height: 1200px;
+    outline: solid green;
+    background-color: #010e1d;
+    outline: none;
+}
+.nen{
+    display: inline-flex;
+    width: 100%;
+}
+.beans{
+    color: white;
+    font-size: 190%;
+    padding: 30px;
+}
+.rice{
+    color: white;
+    padding: 30px;
+    font-size: 150%;
+}
+.xes{
+    width: 15%;
+    height: 160px;
+    outline: solid #0095DA;
+    margin: 30px;
+    border-radius: 10px;
+}
+.egu{
+    display: inline-flex;
+    width: 100%;
+}
+.soup{
+    width: 15%;
+    height: 160px;
+    outline: solid red;
+    margin: 30px;
+    border-radius: 20px;
+        outline: solid #0095DA;
+}
+.fre{
+    padding: 10px;
+    margin-top:80px ;
+    color: white;
+    font-size: 150%;
+}
+.wer{
+    width: 100%;
+    height: 600px;
+    outline: solid green;
+    background-color: #010e1d;
+    outline: none;
+}
+.dss{
+    padding: 40px;
+    color: white;
+}
+.hy{
+    color: white;
+    float: right;
+    padding: 30px;
+    border: solid white;
+    margin-right: 10%;
+    margin-bottom: -40px;
+    margin-top: -7%;
+    border-radius: 40px;
+    height: 10px;
+    width: 10%;
+    text-align: center;
+    cursor: pointer;
+}
+.hy:hover{
+    background-color: #0095DA;
+}
+.build{
+    display: inline-flex;
+    width: 70%;
+}
+.eka{
+    width: 60%;
+    height: 400px;
+    outline: solid red;
+    margin: 30px;
+    color: white;
+    cursor: pointer;
+    transition: transform .2s;
+    outline: none;
+}
+.eka:hover{
+background-color: white;
+color: black;
+transform: scale(1.1);
+}
+.php{
+    width: 100%;
+    height: 570px;
+    outline: solid red;
+    background-color: #111926;
+    outline: none;
+}
+.dave{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.polo{
+    display: inline-flex;
+    width: 90%;
+    border-radius: 30px;
+}
+.ddg{
+    width: 100%;
+    height: 400px;
+    outline: solid red;
+    margin: 45px;
+    border-radius: 20px;
+    color: white;
+    outline: none;
+}
+.rur{
+    margin: 30px;
+    margin-left: 80px;
+}
+.care{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.huh{
+    text-align: center;
+}
+.chap{
+    width:100%;
+    height: 900px;
+    outline: solid #0095DA;
+    background-color: #111926;
+}
+.meek{
+    width: 90%;
+    display: inline-flex;
+}
+.birkin{
+    width: 70%;
+    height: 300px;
+    outline: solid blue;
+    margin: 40px;
+    color: white;
+    text-align: center;
+    outline: none;
+}
+.trap{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.bandit{
+    width: 80%;
+}
+.biz{
+    width: 80%;
+    display: inline-flex;
+}
+.vee{
+    width: 70%;
+    height: 125px;
+    outline: solid blue;
+    margin-left: 100px;
+    cursor: pointer;
+    outline: none;
+}
+.bods{
+    border: solid white;
+    text-align: center;
+    border-radius: 30px;
+}
+.bods:hover{
+    background-color: #0095DA;
+}
+.veer{
+    width: 100%;
+    height: 100px;
+    outline: solid blue;
+    margin-left: 100px;
+    cursor: pointer;
+    outline: none;
+}
+.sip{
+    width: 80%;
+    height: 200px;
+    outline: solid goldenrod;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    outline: none;
+}
+
+
+    
